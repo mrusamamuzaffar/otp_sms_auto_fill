@@ -1,6 +1,10 @@
-# otp_sms_auto_fill
+# otp_sms_auto_fill - Flutter
 
-It automatically picks OTP from sms.I implemented this without using any Flutter plugin.
+It automatically picks OTP from sms.I implemented this without using any Flutter plugin. I done it with using method channel and implement natice code to read the otp message.
+
+✔️ Sound NullSafety
+
+## screenshot
 
 <p align="center">
   <img 
