@@ -4,7 +4,7 @@ It automatically picks OTP from sms.I implemented this without using any Flutter
 
 ✔️ Sound NullSafety
 
-## screenshot
+## GIF
 
 <p align="center">
   <img 
